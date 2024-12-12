@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="static/css/style.css">
+  <title>Sobre - Meu Projeto</title>
+</head>
+<body style="background-color: #f0f0f0;"> <!-- Cor de fundo diferente para a página Sobre -->
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <ul class="navbar-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">Sobre</a></li>
+      <li><a href="services.html">Serviços</a></li>
+      <li><a href="contact.html">Contato</a></li>
+    </ul>
+    <div class="navbar-logo">
+      <img src="static/img/logo.png" alt="Logo">
+    </div>
+  </nav>
+
+  <!-- Conteúdo da Página -->
+  <main>
+    <h1>Sobre Nós</h1>
+    <p>Esta é a página sobre do nosso projeto.</p>
+  </main>
+
+</body>
+</html>
